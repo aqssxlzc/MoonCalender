@@ -2,11 +2,12 @@
 {
 	import flash.utils.Dictionary;
 
-	public class LunarCalendar
+	public class MoonCalendar
 	{
 		/*
 		1900-2100两百年的农历.
 		制作:dansion/dansion.com,dansion@163.com
+		immigrate to as3 by aqssxlzc@gmail.com
 		/////////////////////////
 		初例化方法和FLASH的Date类相同.无参数为系统当然日期.
 		getCYear() 中国农历年.
